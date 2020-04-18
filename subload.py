@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import os, re, ctypes, sys , time
+import os, re
 
 location = os.getcwd()
 
